@@ -1,0 +1,32 @@
+{
+  "name": "chuc-mung-20-10-han-nhat-ninh",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Hàn Nhật Ninh",
+  "description": "Website chúc mừng Ngày Phụ nữ Việt Nam 20/10 - Thiết kế & gửi tặng bởi Hàn Nhật Ninh",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "motion": "^14.4.0",
+    "next": "16.4.2",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "optionalDependencies": {
+    "@tailwindcss/oxide-win32-x64-msvc": "^4.3.3"
+  }
+}
